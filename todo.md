@@ -1,0 +1,21 @@
+- [] Have the links open in a new tab?
+    - [] Add `target="_blank" rel="noopener noreferrer"` to the anchor tags
+    - [] Add a font awesome icon to the links
+        - [[https://docs.fontawesome.com/web/setup/host-yourself/webfonts]]
+- [] Expand the who we are section
+    - [] Mention what a typical event is like
+    - [] Try and bring in the ethos section from the current site
+- [] Improve the meetings section
+    - [x] Make next event clearer
+    - [x] Add location to next event
+- [] Add sponsors
+- [] Improve styling on large screens
+- [] Check styling on very small screens
+- [] Add icons for the Meetup/Github/Slack/X/Bluesky links
+- [] Make the title more fancy
+- [] Make the title smaller on mobile so the next event is visible above the fold
+- [] Add nav links
+- [] Add logo
+- [] Can I incorporate the squares background from meetup?
+- [] Add new page for past events
+- [] Add copyright etc
