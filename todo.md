@@ -5,15 +5,16 @@
 - [] Expand the who we are section
     - [] Mention what a typical event is like
     - [] Try and bring in the ethos section from the current site
-- [] Improve the meetings section
+- [x] Improve the meetings section
     - [x] Make next event clearer
     - [x] Add location to next event
 - [] Add sponsors
 - [] Improve styling on large screens
-- [] Check styling on very small screens
+- [x] Check styling on very small screens
+- [] Improve styling on iPhone SE?
 - [] Add icons for the Meetup/Github/Slack/X/Bluesky links
 - [] Make the title more fancy
-- [] Make the title smaller on mobile so the next event is visible above the fold
+- [x] Make the title smaller on mobile so the next event is visible above the fold
 - [] Add nav links
 - [] Add logo
 - [] Can I incorporate the squares background from meetup?
