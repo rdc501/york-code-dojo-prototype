@@ -13,7 +13,7 @@
 - [x] Check styling on very small screens
 - [] Improve styling on iPhone SE?
 - [] Add icons for the Meetup/Github/Slack/X/Bluesky links
-- [] Make the title more fancy
+- [x] Make the title more fancy
 - [x] Make the title smaller on mobile so the next event is visible above the fold
 - [] Add nav links
 - [] Add logo
@@ -21,3 +21,4 @@
 - [x] Add new page for past events
 - [x] Add copyright etc
 - [x] Remove X link
+- [] Come up with something to indicate there is more content (when there is more content)
