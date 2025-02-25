@@ -18,6 +18,6 @@
 - [] Add nav links
 - [] Add logo
 - [] Can I incorporate the squares background from meetup?
-- [] Add new page for past events
+- [x] Add new page for past events
 - [x] Add copyright etc
 - [x] Remove X link
