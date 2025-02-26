@@ -22,4 +22,5 @@
 - [x] Add copyright etc
 - [x] Remove X link
 - [] Come up with something to indicate there is more content (when there is more content)
-- [] Add shadows to the sections
+- [x] Add shadows to the sections
+    - [x] Or make the background darker?
