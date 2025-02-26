@@ -22,3 +22,4 @@
 - [x] Add copyright etc
 - [x] Remove X link
 - [] Come up with something to indicate there is more content (when there is more content)
+- [] Add shadows to the sections
