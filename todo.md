@@ -12,7 +12,8 @@
 - [x] Improve styling on large screens
 - [x] Check styling on very small screens
 - [] Improve styling on iPhone SE?
-- [] Add icons for the Meetup/Github/Slack/X/Bluesky links
+- [x] Add icons for the Meetup/Github/Slack/X/Bluesky links
+- [] Hide icons from screen readers?
 - [x] Make the title more fancy
 - [x] Make the title smaller on mobile so the next event is visible above the fold
 - [] Add nav links
