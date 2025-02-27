@@ -18,11 +18,11 @@
 - [x] Make the title smaller on mobile so the next event is visible above the fold
 - [x] Add nav links
 - [x] Add logo
-- [] Can I incorporate the squares background from meetup?
+- [x] Can I incorporate the squares background from meetup?
 - [x] Add new page for past events
 - [x] Add copyright etc
 - [x] Remove X link
-- [] Come up with something to indicate there is more content (when there is more content)
+- [x] Come up with something to indicate there is more content (when there is more content)
 - [x] Add shadows to the sections
     - [x] Or make the background darker?
 - [x] Act on pagespeed suggestions
