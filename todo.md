@@ -11,13 +11,13 @@
 - [x] Add sponsors
 - [x] Improve styling on large screens
 - [x] Check styling on very small screens
-- [] Improve styling on iPhone SE?
+- [x] Improve styling on iPhone SE?
 - [x] Add icons for the Meetup/Github/Slack/X/Bluesky links
 - [x] Hide icons from screen readers?
 - [x] Make the title more fancy
 - [x] Make the title smaller on mobile so the next event is visible above the fold
-- [] Add nav links
-- [] Add logo
+- [x] Add nav links
+- [x] Add logo
 - [] Can I incorporate the squares background from meetup?
 - [x] Add new page for past events
 - [x] Add copyright etc
