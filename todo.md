@@ -1,6 +1,6 @@
-- [] Have the links open in a new tab?
-    - [] Add `target="_blank" rel="noopener noreferrer"` to the anchor tags
-    - [] Add a font awesome icon to the links
+- [x] Have the links open in a new tab?
+    - [x] Add `target="_blank" rel="noopener noreferrer"` to the anchor tags
+    - [x] Add a font awesome icon to the links
         - [[https://docs.fontawesome.com/web/setup/host-yourself/webfonts]]
 - [x] Expand the who we are section
     - [x] Mention what a typical event is like
@@ -8,12 +8,12 @@
 - [x] Improve the meetings section
     - [x] Make next event clearer
     - [x] Add location to next event
-- [] Add sponsors
+- [x] Add sponsors
 - [x] Improve styling on large screens
 - [x] Check styling on very small screens
 - [] Improve styling on iPhone SE?
 - [x] Add icons for the Meetup/Github/Slack/X/Bluesky links
-- [] Hide icons from screen readers?
+- [x] Hide icons from screen readers?
 - [x] Make the title more fancy
 - [x] Make the title smaller on mobile so the next event is visible above the fold
 - [] Add nav links
